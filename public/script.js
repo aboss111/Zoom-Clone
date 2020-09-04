@@ -127,3 +127,9 @@ const setPlayVideo = () => {
     `
     document.querySelector('.main__video__button').innerHTML = html;
 }
+
+const closeWindow = () => {
+    if (confirm("Leave Meeting?")) {
+        close();
+    }
+}

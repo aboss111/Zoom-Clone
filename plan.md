@@ -9,4 +9,4 @@
 - Add the ability to create messages DONE
 - Add mute button DONE
 - Add stop Video button DONE
-- DEPLOY!!!!! 
+- DEPLOY!!!!! DONE
